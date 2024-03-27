@@ -1,0 +1,17 @@
+{
+  "name": "far-fetch",
+  "version": "1.0.1",
+  "description": "watch farfetch data",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "node main.mjs"
+  },
+  "author": "skyboooox",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pino": "^8.15.0",
+    "pino-multi-stream": "^6.0.0",
+    "pino-pretty": "^10.2.0"
+  }
+}
