@@ -5,4 +5,3 @@
 
 
 ![Banner](Bullet_Bill.png "嬉皮笑脸")
-<center>冲刺！</center>

@@ -2,7 +2,7 @@ import express from "express";
 const app = express();
 app.use(express.json());
 
-import fs, { realpathSync } from "fs";
+import fs from "fs";
 import pino from "pino";
 const transport = pino.transport({
   targets: [
